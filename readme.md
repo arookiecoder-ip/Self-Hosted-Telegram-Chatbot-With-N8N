@@ -7,7 +7,7 @@ It allows you to chat with an AI directly through **Telegram**, with memory supp
 
 ## 🗂️ Download the JSON Workflow
 - First Download the below file:
-  {[Workflow JSON]([https://github.com/fe2a0f68-d9b7-4325-9f40-10d6cd95bf65](https://raw.githubusercontent.com/arookiecoder-ip/Self-Hosted-Telegram-Chatbot-With-N8N/refs/heads/main/Telegram%20Chatbot.json))
+  [Workflow JSON]([https://github.com/fe2a0f68-d9b7-4325-9f40-10d6cd95bf65](https://raw.githubusercontent.com/arookiecoder-ip/Self-Hosted-Telegram-Chatbot-With-N8N/refs/heads/main/Telegram%20Chatbot.json))
 ---
 
 
