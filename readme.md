@@ -7,7 +7,7 @@ It allows you to chat with an AI directly through **Telegram**, with memory supp
 
 ## 🗂️ Download the JSON Workflow
 - First Download the below file:
-[@BotFather](https://t.me/botfather)
+[Workflow JSON](blob:https://github.com/fe2a0f68-d9b7-4325-9f40-10d6cd95bf65)
 ---
 
 
